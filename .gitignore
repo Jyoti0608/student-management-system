@@ -1,0 +1,18 @@
+# Java / Maven
+student-management/target/
+student-management/.mvn/wrapper/maven-wrapper.jar
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Keep database credentials out of GitHub
+student-management/src/main/resources/application.properties
